@@ -36,4 +36,5 @@ production:
   pool: 5
   username: tcrails
   password: sampleapp1
-  host: localhost
+  host: mysql.trentcaseydesign.com
+  port: 3306
