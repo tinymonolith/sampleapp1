@@ -35,5 +35,5 @@ production:
   database: sampleapp1_production
   pool: 5
   username: tcrails
-  password: shamus
+  password: sampleapp1
   host: localhost
